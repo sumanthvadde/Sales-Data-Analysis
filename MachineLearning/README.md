@@ -20,9 +20,7 @@ Year of Release vs Number of games. Green part indicates the games which have us
 ***
 ##### Output-2
 Number of games vs global sale in millions.Green part indicates the games which have user and critic score while the IndianRed indicates the ones which do not have the user and critic score.
-***
-![dp2](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MachineLearning/Number%20of%20Games%20vs%20Global%20Sales.PNG)
-***
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/Distribution%20vs%20Year_Release.PNG"></img>
 ##### Output-3
 Number of games vs global sale in millions with with respect to countries (NA,JP,EU and others)
 ***
