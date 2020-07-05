@@ -15,25 +15,20 @@ python BigData.py
 #### Output and Inferences
 ##### Output-1
 Year of Release vs Number of games. Green part indicates the games which have user and critic count while the IndianRed indicates the ones which do not have the user and critic counts.
-***
-![dp1](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MachineLearning/Distribution%20vs%20Year_Release.PNG)
-***
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/Distribution%20vs%20Year_Release.PNG"></img>
 ##### Output-2
 Number of games vs global sale in millions.Green part indicates the games which have user and critic score while the IndianRed indicates the ones which do not have the user and critic score.
-<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/Distribution%20vs%20Year_Release.PNG"></img>
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/Number%20of%20Games%20vs%20Global%20Sales.PNG"></img>
 ##### Output-3
 Number of games vs global sale in millions with with respect to countries (NA,JP,EU and others)
-***
-![dp3](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MachineLearning/ZoneWise.PNG)
-***
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/ZoneWise.PNG"></img>
+
 ##### Output-4
 Year of Release vs Number of games with respect to country
-***
-![dp4](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MachineLearning/ZoneWise1.PNG)
-***
+<img src=https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/ZoneWise1.PNG"></img>
+
 ##### Output-5
 Mean Absolute Error of Linear Regression, KNN Regression and Random Forest Regression.
-***
-![dp5](https://raw.githubusercontent.com/YashMeh/BigDataProject/master/MachineLearning/Screenshot%20(122).png)
-***
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/Screenshot%20(122).png"></img>
+
 
