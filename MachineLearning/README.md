@@ -25,7 +25,7 @@ Number of games vs global sale in millions with with respect to countries (NA,JP
 
 ##### Output-4
 Year of Release vs Number of games with respect to country
-<img src=https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/ZoneWise1.PNG"></img>
+<img src="https://github.com/sumanthvadde/Sales-Data-Analysis/blob/master/MachineLearning/ZoneWise1.PNG"></img>
 
 ##### Output-5
 Mean Absolute Error of Linear Regression, KNN Regression and Random Forest Regression.
